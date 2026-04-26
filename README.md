@@ -6,10 +6,10 @@ Department of Automation and Intelligent Systems,
 
 #Bachelor Thesis
 
-#Supervised and Unsupervised Machine Learning
-#A Practical Study With Python Implementation
+# Supervised and Unsupervised Machine Learning
+# A Practical Study With Python Implementation
 
-#Presented by: Bouchelouche Mansour
+# Presented by: Bouchelouche Mansour
 
 Supervisor: M. Bektache A
 
