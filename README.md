@@ -1,15 +1,18 @@
-# 📂 Documentation
+## 📂 Documentation
 
 University of Ferhat Abbas,     
 Faculty of Technology,
 Department of Automation and Intelligent Systems,
 
-## Bachelor Thesis
 
-## Supervised and Unsupervised Machine Learning
-## A Practical Study With Python Implementation
+### Bachelor Thesis
 
-## Presented by: Bouchelouche Mansour
+
+### Supervised and Unsupervised Machine Learning
+### A Practical Study With Python Implementation
+
+### Presented by: Bouchelouche Mansour
+
 
 Supervisor: M. Bektache A
 
