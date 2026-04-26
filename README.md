@@ -1,6 +1,7 @@
 ## 📂 Documentation
-University of Ferhat AbbasFaculty of Technology
-Department of Automation and IntelligentSystems
+University of Ferhat Abbas
+Faculty of Technology
+Department of Automation and Intelligent Systems
 
 Bachelor Thesis
 
